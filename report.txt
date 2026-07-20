@@ -1,0 +1,9 @@
+Student Grade Report
+--------------------
+Alice: 92
+Bob: 85
+Charlie: 78
+David: 95
+Emma: 88
+
+Average Grade: 87.60
